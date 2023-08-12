@@ -1,4 +1,4 @@
-# Lagrange_Multipliers
+## Lagrange_Multipliers_Code
 All the Python code used to create the graphs shown in the main paper, along with numerical solutions, were utilized to validate the analytical solutions for the case study of the primary problem.
 ------------------------------------------------------------------------------------------------------
 
